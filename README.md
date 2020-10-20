@@ -1,6 +1,7 @@
 # CodigopruevaATMEGA16
 enciende y apaga un led
 
+
  .def gen  =r16
  .def gen2 =r17
  .def gen3 =r18
